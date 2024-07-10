@@ -1,0 +1,215 @@
+*{  
+    
+    text-decoration: none;
+    list-style-type: none;
+     
+    }
+body{
+    background-color: aliceblue;
+     
+}
+    
+.parent{
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 455px;
+    margin: 0px auto;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    padding-top: 65px;
+    border-radius: 10px solid;
+}
+
+/* .monimg{
+    height: 250px;
+    border-radius: 35px;
+} */
+.log{
+    
+    margin-top: 40px;
+    font-weight: 20px;
+    height: 5px;
+    margin: 0px auto;
+    margin-top: 30px;
+    color:   rgba(165, 49, 242, 0.971);
+}
+.log, h1{
+    font-weight: 60px;
+    margin-right: 35px;
+}
+ 
+.info{
+    width: 80px;
+    height: 105px;
+    padding-top: 1px;
+    border-radius: 10px;
+    margin-top: 90px;
+     
+}
+.input1{
+    border-radius: 10px;
+    display: flex;
+    height: 50px;
+    margin: 10px 48px  12px;
+    margin-bottom: 30px;
+    
+} 
+ 
+.input1, input{
+    border-radius: 40px;
+    height: 30px;
+    width: 405%;
+    margin-left: 4px;
+   
+}
+.input1,img{
+     height: 25px;
+     color: white;
+}
+
+.forget{
+    height: 20px;
+    width: 175px;
+    text-align: center;
+    margin: 0px auto;
+    margin-right: 21px;
+
+}
+
+.phrase{
+    background-color: rgba(156, 24, 245, 0.637);
+    height: 35px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.phrase, h2 {
+    color: black;
+    width: 90%;
+    margin-left: 15px;
+
+}
+.creercompt{
+    width: 220px;
+    height: 15px;
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.flex{
+    display: block;
+    margin-left: 90px;
+    border-radius: 20px;
+    background-color: rgb(204, 180, 153);
+    height: 400px;
+    width: 340px;
+    margin-top: -75px;
+    margin: 0px auto;
+
+}
+/*       PAGE ACCUEIL */
+.header{
+    background-color:  rgba(156, 24, 245, 0.637) ;
+    display: flex;
+    height: 65px;
+    text-align: center;
+    justify-content: space-around
+}
+.logarhen{
+    background-color: rgb(205, 27, 27);
+    height: 50px;
+    width: 55px;
+    border-radius: 50%;
+    margin-top: 8px;
+   
+
+}
+.logarhen h1{
+    margin-top: -33px;
+    margin-left: 65px;
+    /* background-color: rgb(255, 9, 99); */
+    width: 90px;
+    height: 15px;
+    color: white;
+    font-weight: 200px;
+    font-size: small;
+    
+}
+.meu1{
+    height: 50%;
+    width: 600px;
+    /* background-color: blue; */
+    margin-left: 200px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+}
+.spane{
+    color:red;
+}
+.acc{
+    color: white;
+    height: 100%;
+    width: 25%;
+    border-radius: 7px;
+    /* background-color:  rgb(204, 180, 153);*/
+} 
+.Gprof{
+    color: white;
+    /* background-color: rgb(42, 165, 79); */
+    height: 100%;
+    width: 45%;
+    margin-left: 150px;
+    margin-top: -32.5px;
+    border-radius: 7px;
+    /* background-color:  rgb(204, 180, 153); */
+}
+.Gcours{
+    color: white;
+    /* background-color: rgb(165, 112, 42); */
+    height: 100%;
+    width: 30%;
+    margin-left: 420px;
+    margin-top: -32.5px;
+    color: white;
+    border-radius: 7px;
+    /* background-color:  rgb(204, 180, 153); */
+}
+.milieu{
+    background-color: red;
+    height: 1110%;
+    padding-bottom: 242px;
+  
+ 
+}
+.bacground{
+    background-color: darkgray;
+    height: 1110%;
+    padding-bottom: 250px;
+    
+}
+.divariere{
+    
+}
+.tiret{
+    height: 5px;
+    width: 590px;
+    background-color: black;
+    margin-left: 580px;
+    margin-top: 49px;
+    margin: 0px auto;
+
+}
+.tiret, h1{
+    color: rgb(254, 252, 252);
+    margin-top: 50px;
+    
+}
+/* pages prof */
+/*  
+
+.coment{
+    width: 710px;
+    height: 50px;
+}
